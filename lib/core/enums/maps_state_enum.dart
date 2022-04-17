@@ -1,0 +1,1 @@
+enum MapState{loading,found}
